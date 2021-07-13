@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Tripupp/static/css/main.29fda2a1.chunk.css",
+    "main.js": "/Tripupp/static/js/main.a03296f1.chunk.js",
+    "main.js.map": "/Tripupp/static/js/main.a03296f1.chunk.js.map",
+    "runtime-main.js": "/Tripupp/static/js/runtime-main.f0391a98.js",
+    "runtime-main.js.map": "/Tripupp/static/js/runtime-main.f0391a98.js.map",
+    "static/css/2.4be38407.chunk.css": "/Tripupp/static/css/2.4be38407.chunk.css",
+    "static/js/2.0831e203.chunk.js": "/Tripupp/static/js/2.0831e203.chunk.js",
+    "static/js/2.0831e203.chunk.js.map": "/Tripupp/static/js/2.0831e203.chunk.js.map",
+    "static/js/3.f40d80e0.chunk.js": "/Tripupp/static/js/3.f40d80e0.chunk.js",
+    "static/js/3.f40d80e0.chunk.js.map": "/Tripupp/static/js/3.f40d80e0.chunk.js.map",
+    "index.html": "/Tripupp/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Tripupp/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.29fda2a1.chunk.css.map": "/Tripupp/static/css/main.29fda2a1.chunk.css.map",
+    "static/js/2.0831e203.chunk.js.LICENSE.txt": "/Tripupp/static/js/2.0831e203.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/Tripupp/static/media/back.34f078ae.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0391a98.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.0831e203.chunk.js",
+    "static/css/main.29fda2a1.chunk.css",
+    "static/js/main.a03296f1.chunk.js"
+  ]
+}
