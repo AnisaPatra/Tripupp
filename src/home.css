@@ -1,6 +1,5 @@
-
 .head{
-    height: 700px;
+    height: 100%;
     background-image: url('./back.PNG');
     background-size: cover;
     width: 100%;
@@ -42,8 +41,8 @@
   }
 
   .head .nav .btn{
-    font-size: 19px;
-    width: 130px;
+    font-size: 16px;
+    width: 170px;
     font-family: Calibri;
     text-transform: uppercase;
     font-weight: 1000;
@@ -78,11 +77,223 @@
     margin-bottom: 50px;
   }
 
-  .head .intro .email{
-    background-color: #b994c0;
+  .head .intro .input-group .email{
+    background-color: #e9e8ea;
+    opacity: 0.7;
     border-radius: 15px;
     font-size: 20px;
-    height: 50px;
+    height: 60px;
     font-weight: bold;
+    color: black;
+  }
+  
+  .head .intro .input-group .btn{
+    background: blue;
+    width: auto;
+    margin-top: 0;
+  }
+
+  .head .intro p{
+    margin-top: 30px;
+    color: #aeaeae;
+    font-size: 22px;
+    letter-spacing: 1.5px;
+  }
+
+  .head .intro .back{
+    margin-top: 80px;
+    background-color: rgba(207, 203, 203, 0.6);
+    width: 650px;
+    position: absolute;
+    height:280px;
+    z-index: -1;
+  }
+
+  .head .intro .back p{
     color: white;
   }
+
+  .head .job_details{
+    margin-top: 50px;
+    border-radius: 10px;
+    position: absolute;
+    width: 500px;
+  }
+
+  .head .job_details .card-header{
+    color: black;
+    background-color: white;
+    font: 505 20px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1.5px;
+    padding: 15px;
+  }
+
+  .job_details table {
+    table-layout: auto !important;
+    color:black;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+  .head  .job_details .first{
+    font: 500 18px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1.1px;
+    width: 170px;
+  }
+
+  .head .job_details .trst-group-item label{
+    background-color: #d5f5ff;
+    color: #219ab9;
+    font-size: 15px;
+    font-weight: bold;
+    width: 240px;
+    height: 50px;
+    padding: 10px;
+  }
+
+  .head .job_details .trst-group-item label i{
+    color: green;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 20px;
+    color:#3980da;
+    padding: 10px;
+    margin-left: 100px;
+  }
+  
+  .grid-container > div {
+    text-align: center;
+    font-size: 30px;
+    padding: 20px 0;
+    font-weight: 620;
+    letter-spacing: 1.5px;
+  }
+
+  .head .hr{
+    background-color: #d9edf4;
+    height:1150px
+  }
+
+  .head .hr .left{
+    margin-top: 40px;
+    margin-left: 40px;
+  }
+
+  .head .hr button, .head .payroll button{
+    background-color: #13a2d6;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    border:0;
+    float: inline-start;
+    margin-top: 10px;
+  }
+
+  .hr h1, .payroll h1{
+    color:#65bad0;
+    font:500 70px Times;
+    padding-left:20px;
+    float: left;
+    letter-spacing: 1.5px;
+  }
+
+  .hr h3, .payroll h3{
+    color:#65bad0;
+    font:500 50px;
+    padding-left:20px;
+    float: left;
+    margin-top: 30px;
+    letter-spacing: 1.5px;
+  }
+
+  .head .hr .demo th{
+    font-size: 25px;
+    font-weight: 520;
+    letter-spacing: 1.2px;
+  }
+
+  .hr .demo .light{
+    font-size: 13px;
+    letter-spacing: 1.5px;
+    color: grey;
+    font-weight: 600;
+  }
+
+  .hr .demo .dark{
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    font-weight: 600;
+  }
+
+  .hr .demo .heading{
+    font-size: 20px;
+    padding: 10px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+  }
+
+  .hr .right .employee{
+    color: black;
+    width: 30rem;
+    border-radius: 12px;
+  }
+
+  .hr .card .shadow{
+    z-index: 1;
+    float: left;
+    width: 90%;
+    border-radius: 20px;
+    border: 0;
+  }
+
+  .payroll{
+    height: 500px;
+    margin-top: 70px;
+    margin-left: 50px;
+  }
+
+  .advisor h1{
+    color: black;
+    margin-left:150px;
+    font-family: Garamond;
+    letter-spacing: 1.5px;
+    word-spacing: 5px;
+    font-weight: 600;
+    width: max-content;
+    font-size: 45px;
+    line-height: 70px;
+    text-transform: capitalize;
+    font-stretch: extra-expanded;
+  }
+  .advisor button{
+    margin-left: 150px;
+    margin-top: 60px;
+  }
+
+  .above_footer h1{
+    color:#083389;
+    font-family:Garamond;
+    width: 350px;
+    letter-spacing: 1.5px;
+    word-spacing: 5px;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 70px;
+  }
+
+  .above_footer button, .advisor button{
+    border:0;
+    margin: 30px;
+    border-radius: 70px;
+    letter-spacing: 1.5px;
+    font: 600 30px 'Segoe UI';
+    width: 350px;
+    height: 100px;
+    background: linear-gradient(to right,#d04ed6, #753a88);
+    color: white;
+    text-transform: capitalize;
+  }
+

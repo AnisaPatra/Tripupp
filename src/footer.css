@@ -1,0 +1,28 @@
+.footer{
+    background-color: white;
+    box-sizing: border-box;
+    line-height: 120%;
+}
+
+
+
+.colHead{
+    font-weight: 700;
+    color: rgb(26, 25, 25);
+    font-family: inherit;
+    font-size: 20px;
+    white-space: nowrap;
+    margin-left: 38px;
+}
+
+.lists{
+    list-style-type: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1.5px;
+}
+
+.lists li{
+    font-size: 18px;
+    padding: 5px 0;
+}
