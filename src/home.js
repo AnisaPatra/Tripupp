@@ -303,10 +303,10 @@ const Home = (props) => {
         <button className="blue-gradient"><i class="bi bi-graph-up" style={{ fontSize: "2rem", color: "white" }}></i></button>
         <h1>Payroll</h1><h3>Payroll that's easy to use and seriously smart.</h3><br/>
         <div class="grid-container" style={{marginTop:"150px"}}>
-        <div><img src='./images/dollar.png'/></div>
-        <div><img src='./images/award.png'/></div>
-        <div><img src='./images/money.png'/></div>
-        <div><img src='./images/calendar.png'/></div>
+        <div><i class="bi bi-coin" style={{width:"80px",height:"80px"}}></i></div>
+        <div><i class="bi bi-award" style={{width:"80px",height:"80px"}}></i></div>
+        <div><i class="bi bi-wallet2" style={{width:"80px",height:"80px"}}></i></div>
+        <div><i class="bi bi-calendar3" style={{width:"80px",height:"80px"}}></i></div>
       </div>
       </div>
       <div class="advisor">
