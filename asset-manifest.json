@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/Tripupp/static/css/main.29fda2a1.chunk.css",
-    "main.js": "/Tripupp/static/js/main.a03296f1.chunk.js",
-    "main.js.map": "/Tripupp/static/js/main.a03296f1.chunk.js.map",
-    "runtime-main.js": "/Tripupp/static/js/runtime-main.f0391a98.js",
-    "runtime-main.js.map": "/Tripupp/static/js/runtime-main.f0391a98.js.map",
-    "static/css/2.4be38407.chunk.css": "/Tripupp/static/css/2.4be38407.chunk.css",
-    "static/js/2.0831e203.chunk.js": "/Tripupp/static/js/2.0831e203.chunk.js",
-    "static/js/2.0831e203.chunk.js.map": "/Tripupp/static/js/2.0831e203.chunk.js.map",
-    "static/js/3.f40d80e0.chunk.js": "/Tripupp/static/js/3.f40d80e0.chunk.js",
-    "static/js/3.f40d80e0.chunk.js.map": "/Tripupp/static/js/3.f40d80e0.chunk.js.map",
+    "main.css": "/Tripupp/static/css/main.2665dabd.chunk.css",
+    "main.js": "/Tripupp/static/js/main.fc280dbd.chunk.js",
+    "main.js.map": "/Tripupp/static/js/main.fc280dbd.chunk.js.map",
+    "runtime-main.js": "/Tripupp/static/js/runtime-main.b67d4064.js",
+    "runtime-main.js.map": "/Tripupp/static/js/runtime-main.b67d4064.js.map",
+    "static/css/2.c6c0b29a.chunk.css": "/Tripupp/static/css/2.c6c0b29a.chunk.css",
+    "static/js/2.27241a0a.chunk.js": "/Tripupp/static/js/2.27241a0a.chunk.js",
+    "static/js/2.27241a0a.chunk.js.map": "/Tripupp/static/js/2.27241a0a.chunk.js.map",
+    "static/js/3.7d0e8886.chunk.js": "/Tripupp/static/js/3.7d0e8886.chunk.js",
+    "static/js/3.7d0e8886.chunk.js.map": "/Tripupp/static/js/3.7d0e8886.chunk.js.map",
     "index.html": "/Tripupp/index.html",
-    "static/css/2.4be38407.chunk.css.map": "/Tripupp/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.29fda2a1.chunk.css.map": "/Tripupp/static/css/main.29fda2a1.chunk.css.map",
-    "static/js/2.0831e203.chunk.js.LICENSE.txt": "/Tripupp/static/js/2.0831e203.chunk.js.LICENSE.txt",
-    "static/media/home.css": "/Tripupp/static/media/back.34f078ae.PNG"
+    "static/css/2.c6c0b29a.chunk.css.map": "/Tripupp/static/css/2.c6c0b29a.chunk.css.map",
+    "static/css/main.2665dabd.chunk.css.map": "/Tripupp/static/css/main.2665dabd.chunk.css.map",
+    "static/js/2.27241a0a.chunk.js.LICENSE.txt": "/Tripupp/static/js/2.27241a0a.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/Tripupp/static/media/arrow_right.0897f985.svg",
+    "static/media/home.css": "/Tripupp/static/media/back.34f078ae.PNG",
+    "static/media/bootstrap-icons.css": "/Tripupp/static/media/bootstrap-icons.dfd0ea12.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0391a98.js",
-    "static/css/2.4be38407.chunk.css",
-    "static/js/2.0831e203.chunk.js",
-    "static/css/main.29fda2a1.chunk.css",
-    "static/js/main.a03296f1.chunk.js"
+    "static/js/runtime-main.b67d4064.js",
+    "static/css/2.c6c0b29a.chunk.css",
+    "static/js/2.27241a0a.chunk.js",
+    "static/css/main.2665dabd.chunk.css",
+    "static/js/main.fc280dbd.chunk.js"
   ]
 }
